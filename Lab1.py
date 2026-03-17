@@ -16,5 +16,5 @@ print (operation + "is" + str(total))
 length =10
 width = 5
 area = length * width
-print ("Area of a rectangle with length" + str(length) + "and width" + str (width)+ "is" + str(area))
+print ("Area of a rectangle with length is" + str(area))
 
